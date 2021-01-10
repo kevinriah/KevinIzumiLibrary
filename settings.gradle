@@ -1,0 +1,3 @@
+include ':IzumiLibrary'
+include ':app'
+rootProject.name = "ProjectKevinIzumiLibrary"
